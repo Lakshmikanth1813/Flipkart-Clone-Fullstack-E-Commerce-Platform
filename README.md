@@ -275,7 +275,7 @@ JWT_SECRET=your_secret_key
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/Lakshmikanth1813/Flipkart-Clone-Fullstack-E-Commerce-Platform >
 ```
 
 ---
@@ -385,4 +385,6 @@ The application is responsive across:
 
 # 👨‍💻 Author
 
-Developed as part of an SDE Intern Fullstack Assignment.
+--Dhani Lakshmi Kanth Reddy
+LinkedIn : https://www.linkedin.com/in/dhani-reddy-lakshmi-kanth-reddy-33a511298/
+GitHub: https://github.com/Lakshmikanth1813
