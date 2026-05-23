@@ -1,4 +1,7 @@
+require('dotenv').config();
+
 const db = require('../config/db');
+
 
 async function runSeed() {
   console.log('[Database Seed] Starting database seeding...');
